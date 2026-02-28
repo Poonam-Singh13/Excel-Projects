@@ -1,0 +1,46 @@
+Sales Analysis Dashboard Documentation
+--------------------------------------
+
+Overview:
+The "Sales Analysis" dashboard provides a comprehensive view of sales performance across multiple dimensions. It is designed to support data-driven decision-making by presenting key performance indicators (KPIs), revenue trends, and order distribution patterns in a clear and interactive format.
+
+Key Metrics:
+- Total Orders: 1,000
+- Total Revenue: ₹35,20,984
+- Correlation between Order Date & Delivery Date: 5.35
+- Average Revenue: ₹3,205
+
+Visualizations:
+1. Revenue by Occasion:
+   Displays revenue contributions across occasions such as Anniversary, Birthday, Diwali, Holi, Raksha Bandhan, and Valentine’s Day.
+
+2. Revenue by Category:
+   Breaks down revenue by product categories including Cakes, Colors, Mugs, Plants, Soft Toys, Raksha Bandhan items, and Sweets.
+
+3. Revenue by Month:
+   Shows monthly revenue trends from January to December, highlighting seasonal variations.
+
+4. Revenue by Top 5 Products:
+   Identifies the highest revenue-generating products (e.g., Deserunt Box, Dolores Gift, Harum Pack, Magnum Set, Quia Gift).
+
+5. City by Order Count:
+   Highlights order distribution across cities such as North Dumdum, Kavali, Imphal, Haridwar, Guntakal, Dibrugarh, Dhanbad, and Bilaspur.
+
+6. Revenue by Hour:
+   Provides insights into hourly revenue patterns, useful for understanding peak sales times.
+
+Filters:
+- Order Date: Selectable by month (e.g., June–September 2023).
+- Delivery Date: Selectable by month (e.g., June–September 2024).
+- Occasion: Filterable by specific events (Anniversary, Birthday, Diwali, Holi, etc.).
+
+Purpose:
+This dashboard enables stakeholders to:
+- Monitor overall sales performance.
+- Identify high-performing occasions, categories, and products.
+- Detect seasonal and hourly sales trends.
+- Assess geographic distribution of orders.
+- Optimize marketing and inventory strategies based on data insights.
+
+Conclusion:
+The Sales Analysis dashboard is a powerful tool for visualizing and interpreting sales data. By combining KPIs with detailed breakdowns across multiple dimensions, it provides actionable insights that can guide business growth and operational efficiency.
