@@ -1,0 +1,24 @@
+BESTSIDE STORE ANALYSIS
+The BestSide Store Analysis 2026 Dashboard provides a comprehensive overview of retail performance, combining sales, customer demographics, and delivery outcomes into a single interactive interface. It is designed to support data-driven decision-making by highlighting key business metrics across multiple dimensions.
+🔑 Key Insights
+- Orders vs Sales (Monthly Trends):
+A combined bar and line chart tracks monthly revenue and order volume, revealing seasonal peaks—most notably in March—where both sales and orders reach their highest levels.
+- Gender-Based Sales Distribution:
+A pie chart shows that women account for 64% of total sales, compared to 36% from men, indicating stronger engagement from female customers.
+- Delivery Performance:
+A bar chart highlights fulfillment outcomes, with the majority of orders successfully delivered (~35,000), while cancellations, refunds, and returns remain minimal.
+- Regional Sales Leaders:
+A horizontal bar chart ranks the top-performing states, led by Maharashtra (2.99M) and Karnataka (2.65M), followed by Uttar Pradesh, Telangana, and Tamil Nadu.
+- Age & Gender Order Distribution:
+A segmented bar chart illustrates purchasing behavior across age groups, showing that adult women dominate order volumes, while teenagers and seniors contribute smaller shares.
+- Sales Channel Contribution:
+A line chart compares channel performance, with Amazon and Myntra driving the highest sales percentages, while niche platforms like Nalli contribute less.
+🎯 Strategic Value
+This dashboard enables retail managers to:
+- Identify seasonal demand patterns for inventory planning.
+- Understand customer demographics to tailor marketing strategies.
+- Monitor delivery efficiency to improve customer satisfaction.
+- Pinpoint regional growth opportunities for targeted expansion.
+- Evaluate channel effectiveness to optimize partnerships and promotions.
+
+Would you like me to refine this into a formal report-style narrative (suitable for academic or corporate submission), or keep it as a business presentation-style summary with bullet points for quick decision-making?
