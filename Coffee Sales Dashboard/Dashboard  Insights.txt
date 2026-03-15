@@ -1,0 +1,30 @@
+Coffee Sales Dashboard -
+Overview
+This interactive dashboard provides a comprehensive visualization of coffee sales data across multiple dimensions including time, geography, customer behavior, and product attributes. It is designed to help stakeholders analyze trends, identify top-performing regions and customers, and make data-driven decisions.
+Key Features
+- Order Date Filter: Select sales data from July 2021 to December 2022.
+- Total Sales Over Time: Line chart showing monthly sales (USD) for four coffee types—Arabica, Excelsa, Liberica, and Robusta—from January 2019 to July 2022.
+- Sales by Country: Bar chart highlighting top-performing countries:
+- United States: $35,638.89
+- Ireland: $6,696.87
+- United Kingdom: $2,798.51
+- Top 5 Customers: Bar chart showcasing highest individual spenders:
+- Allis Wilmore: $317.07
+- Brenn Dundredege: $307.05
+- Terri Farra: $289.11
+- Nealson Cutler: $281.68
+- Don Flintiff: $278.01
+- Interactive Filters:
+- Size: 0.2, 0.5, 1, 2.5
+- Roast Type: Dark, Light, Medium
+- Loyalty Card Status: Yes / No
+Purpose
+This dashboard is ideal for sales analysts, marketing teams, and business managers seeking insights into coffee product performance, customer loyalty, and geographic trends.
+Tools Used
+- Data Visualization: [Specify tool, e.g., Power BI / Tableau / Excel]
+- Data Source: [Specify source, e.g., CSV file, SQL database]
+- Technologies: [Optional, e.g., Python, Pandas, Matplotlib]
+How to Use
+- Open the dashboard in your preferred visualization tool.
+- Use the filters to customize the view based on date range, product size, roast type, and loyalty card status.
+- Analyze trends and identify actionable insights.
