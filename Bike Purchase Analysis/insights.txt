@@ -1,0 +1,22 @@
+BIKE SALES DASHBOARD SUMMARY
+
+1. Average Income per Purchase:
+- Female: No ₹53,440, Yes ₹55,774
+- Male: No ₹56,208, Yes ₹60,124
+Observation: Males generally have higher average incomes, and bike purchasers have slightly higher incomes.
+
+2. Customer Commute:
+- Distances: 0–1, 1–2, 2–5, 5–10, 10–15 miles
+- Trend: Higher bike purchases among shorter commute distances.
+
+3. Customer Age Brackets:
+- Adolescent, Middle Age, Old Age
+- Trend: Middle Age group shows peak in both purchases and non-purchases.
+
+4. Filters:
+- Region: Europe, North America, Pacific
+- Education: Bachelors, Graduate Degree, High School, Partial College, Partial High School
+- Marital Status: Married, Single
+
+Overall Insight:
+Bike purchases are influenced by income, commute distance, and age bracket, with demographic filters providing deeper segmentation.
